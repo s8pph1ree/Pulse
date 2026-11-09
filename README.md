@@ -1,7 +1,6 @@
 <p align="center"><img src="docs/logo.png" width="120" alt="Волна"></p>
 <h1 align="center">Волна</h1>
 <p align="center"><b>Десктоп-плеер для ВК Музыки, в котором музыку можно слушать вместе с друзьями.</b><br>
-Тёмный интерфейс в стиле iPhone, работает поверх вашего аккаунта ВК.</p>
 <p align="center"><a href="../../releases/latest"><b>⬇ Скачать для Windows</b></a></p>
 
 ---
